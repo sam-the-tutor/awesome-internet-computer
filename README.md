@@ -73,6 +73,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
 - [Converting ICP into Cycles](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00) - How to programmatically convert ICP into Cycles in NodeJS.
 - [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33) - Tutorial on how to configure dapps for social platform previews and SEO.
+- [Whitelist Dapp](https://github.com/sam-the-tutor/whitelistDappGuide) - Tutorial on how to create a whitelist dapp with Motoko
 
 ## Starters
 
